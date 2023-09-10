@@ -16,4 +16,4 @@ I am currently improving my knowledge of [Laravel](https://laravel.com/) and [DD
 Otherwise, I use Rust. Rust is good. Do Rust. 🦀
 
 ### Find me elsewhere ✉
-You can contact me through my [email address](mailto:mishapro@mm.st?subject=Hello%2C%20I've%20seen%20your%20Github%20profile%20!).
+You can contact me through my [email address](mailto:mishaa.pro@proton.me?subject=Hello).
