@@ -2,7 +2,7 @@
 ### Hi, nice to meet you 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SirMishaa)
 
-Hi, I'm Mishaa, a full stack developer passionate about science, music, astronomy and technology. My current dream is to move to Canada and to be able to make a living from my passion which is software development and engineering. I'm also a big cat fan, but that's another story...
+Hi, I'm Mishaa, a full stack developer passionate about science, music, astronomy and technology.
 
 > "The teaching should be like this: he who receives it gathers it as a priceless gift but never as a painful constraint." -  Albert Einstein
 
